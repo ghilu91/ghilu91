@@ -19,7 +19,7 @@
 
 
 <a href="https://github.com/ghilu91">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoenemann&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoenemann&theme=buefy&layout=compact" />
 </a>
 
 ## About this GitHub profile
