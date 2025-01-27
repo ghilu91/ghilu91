@@ -3,7 +3,7 @@
 ### About my past as a mathematician
 - 🥇 &nbsp; Gold Medal at the 51th IMO ([International Mathematical Olympiad](https://www.imo-official.org/participant_r.aspx?id=18911))
 - 🎓 &nbsp; Bachelor an Master degree in Mathematics (Scuola Normale Superiore, SNS, Pisa)
-- 👨‍🎓 &nbsp; Recipient of Canadian [Governor General's Gold Medal](https://www.uottawa.ca/about-us/brilliant-mathematics-doctoral-student-wins-prestigious-award) for my PHD thesis (Department of Mathematics and Statistics, University of Ottawa)
+- 👨‍🎓 &nbsp; Recipient of Canadian [Governor General's Gold Medal](https://www.uottawa.ca/about-us/brilliant-mathematics-doctoral-student-wins-prestigious-award) for my PHD thesis (Department of Maths and Stats, University of Ottawa)
 - 👷‍♂️ &nbsp; Humboldt Postdoctoral Researcher in Mathematics (Goettingen, Germany)
 
 ### About my present as a data learner
